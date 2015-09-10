@@ -1,0 +1,20 @@
+div#memory_board{
+	background:#b96feb;
+	border:#999 1px solid;
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+}
+div#memory_board > div{
+	background: url(/Users/donaldspriggs/Desktop/memory/img/mlp.png) no-repeat;
+	
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+}
